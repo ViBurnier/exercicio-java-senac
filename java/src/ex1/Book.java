@@ -1,4 +1,4 @@
-package exercicios_senac.ex1;
+package exercicio-java-senac.ex1;
 
 public class Book {
 
